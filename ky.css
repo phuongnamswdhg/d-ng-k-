@@ -1,0 +1,18 @@
+.dangky{
+    width:300px;
+    height: 350px;
+    background-color:;
+    border-radius:10px;
+    margin:0 auto;
+}
+.h3{
+    margin:0 auto;
+}
+.from-submit {
+    background: #2196f3;
+
+    color: #050505fa;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 6px 10px;
+}
